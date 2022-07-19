@@ -1,0 +1,7 @@
+default:
+  onwer: config-service's git folder
+  content: hello, this is the data to use for each microservice
+  
+sample:
+  message: this is member configs
+  version: 2
