@@ -1,2 +1,7 @@
 default:
   message: this is member`s global configs
+  application:
+    names:
+      - global
+      - prod
+      - test
