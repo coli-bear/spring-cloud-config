@@ -1,3 +1,4 @@
 default:
   owner: config-service's git folder
   content: hello, this is the data to use for each microservice
+  message: ?????what?
